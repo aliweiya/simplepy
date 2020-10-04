@@ -1,7 +1,6 @@
 我是python的爱好者，喜欢收集python编写的程序和代码，有时也会尝试自己动手，下面是收集和动手写的代码，喜欢这个的或者感觉有用的还请多多支持我（请捐赠我一杯咖啡）。
 
-支付宝:https://s1.ax1x.com/2020/10/04/0GEHzt.jpg
-![img](https://github.com/cnzbpy/simplepy/blob/master/%E6%8D%90%E8%B5%A0.jpg)
+支付宝:![img](https://github.com/cnzbpy/simplepy/blob/master/%E6%8D%90%E8%B5%A0.jpg)
 
 Unrar破解rar压缩密码：通过Unrar库实现rar格式压缩包密码的破解。
 
