@@ -1,5 +1,5 @@
-不生成密码本：
-4位全数字密码：
+#不生成密码本：
+#4位全数字密码：
 import os
 import time
 def Jy():
@@ -27,7 +27,7 @@ else:#存在则进行下一步
     
     
     
-4位数字字母密码：
+#4位数字字母密码：
 import os
 import time
 def Jy():
@@ -65,7 +65,7 @@ else:#存在则进行下一步
 
 
 
-生成密码本，然后破解：
+#生成密码本，然后破解：
 import os
 import time
 def Jy():
