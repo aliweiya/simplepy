@@ -2,6 +2,8 @@
 
 支付宝:https://s1.ax1x.com/2020/10/04/0GEHzt.jpg
 
+个人网盘：https://www.lanzoux.com/b01hlwsdi密码:k3tb
+
 Unrar破解rar压缩密码：通过Unrar库实现rar格式压缩包密码的破解。
 
 You-Get常用功能集合：You-Get是一个很小的命令行实用程序，可从Web下载媒体内容（视频，音频，图像）。简单的把You-Get一些常用功能集合到python调用,如查看格式、在线播放、下载、获取真实地址。
