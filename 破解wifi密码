@@ -1,5 +1,5 @@
-不生成密码本：
-8位全数字密码：
+#不生成密码本：
+#8位全数字密码：
 import time#时间
 import pywifi#导入wifi库
 from pywifi import const#引用一些定义
@@ -49,7 +49,7 @@ PoJie().readPassWord()
 
 
 
-8位数字字母密码破解：
+#8位数字字母密码破解：
 import time#时间
 import pywifi#**wifi
 from pywifi import const#引用一些定义
@@ -115,7 +115,7 @@ PoJie().readPassWord()
 
 
 
-生成密码本，然后破解：
+#生成密码本，然后破解：
 import time#时间
 import pywifi#**wifi
 from pywifi import const#引用一些定义
