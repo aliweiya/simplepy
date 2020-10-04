@@ -1,4 +1,3 @@
-```python
 #不生成密码本：
 import time
 from unrar import rarfile
@@ -77,4 +76,3 @@ for myStr in myfile:
         break
 ent=time.time()
 print('用时%f分'%((ent-stm)/60))
-```
