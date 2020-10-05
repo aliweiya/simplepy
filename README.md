@@ -8,7 +8,13 @@
 
 * ### [You-Get常用功能集合：You-Get是一个很小的命令行实用程序，可从Web下载媒体内容（视频，音频，图像）。简单的把You-Get一些常用功能集合到python调用,如查看格式、在线播放、下载、获取真实地址。](https://github.com/cnzbpy/simplepy/blob/master/You-Get%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD%E9%9B%86%E5%90%88.py)
 
+* ### [全屏数字时钟：全屏显示时间，背景图片wallpaper.jpg可自行替换，注意文件名必须为wallpaper，支持jpg和png格式。](https://github.com/cnzbpy/simplepy/blob/master/%E5%85%A8%E5%B1%8F%E6%95%B0%E5%AD%97%E6%97%B6%E9%92%9F.py)
+
 * ### [密码本：几行for嵌套实现密码本的生成。](https://github.com/cnzbpy/simplepy/blob/master/%E5%AF%86%E7%A0%81%E6%9C%AC.py)
+
+* ### [数字时钟：包含的功能有：透明度、多秒表、计次、多倒计时、多闹钟、隐藏任务栏。](https://github.com/cnzbpy/simplepy/blob/master/%E6%95%B0%E5%AD%97%E6%97%B6%E9%92%9F.py)
+
+* ### [热榜：包含b站全站日热榜、微博热搜榜、吾爱破解日热度排行、知乎热榜。](https://github.com/cnzbpy/simplepy/blob/master/%E7%83%AD%E6%A6%9C.py)
 
 * ### [破解wifi密码：通过pywifi库实现wifi密码的破解。](https://github.com/cnzbpy/simplepy/blob/master/%E7%A0%B4%E8%A7%A3wifi%E5%AF%86%E7%A0%81.py)
 
