@@ -6,6 +6,8 @@
 
 * ## 个人网盘：https://www.lanzoux.com/b01hlwsdi  密码:W4mT
 
+* ## 52pojie：https://www.52pojie.cn/home.php?mod=space&uid=1435413&do=thread&view=me&from=space
+
 * ### [Unrar破解rar压缩密码：通过Unrar库实现rar格式压缩包密码的破解。](https://github.com/cnzbpy/simplepy/blob/master/Unrar%E7%A0%B4%E8%A7%A3rar%E5%8E%8B%E7%BC%A9%E5%AF%86%E7%A0%81.py)
 
 * ### [You-Get常用功能集合：You-Get是一个很小的命令行实用程序，可从Web下载媒体内容（视频，音频，图像）。简单的把You-Get一些常用功能集合到python调用,如查看格式、在线播放、下载、获取真实地址。](https://github.com/cnzbpy/simplepy/blob/master/You-Get%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD%E9%9B%86%E5%90%88.py)
