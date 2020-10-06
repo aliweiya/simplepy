@@ -1,8 +1,8 @@
 * # 我是python的爱好者，喜欢收集python编写的程序和代码，有时也会尝试自己动手，下面是收集和动手写的代码，喜欢这个或者觉得有用的还请多多支持我（请捐赠我一杯咖啡）。
 
-* ## 支付宝:https://s1.ax1x.com/2020/10/06/0Nilj0.png
+* ## 支付宝:
 
-![img](https://github.com/cnzbpy/simplepy/blob/master/%E6%8D%90%E8%B5%A0.jpg)
+![捐赠.png](https://i.loli.net/2020/10/06/GUsb7XcZzQJq8vt.png)
 
 * ## 个人网盘：https://www.lanzoux.com/b01hlwsdi  密码:W4mT
 
