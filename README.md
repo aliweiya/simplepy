@@ -6,7 +6,7 @@
 
 * ## 个人网盘：https://www.lanzoux.com/b01hlwsdi  密码:W4mT
 
-* ## 52pojie：https://www.52pojie.cn/home.php?mod=space&uid=1435413&do=thread&view=me&from=space
+* ## 52pojie(UID：1435413)：https://www.52pojie.cn/home.php?mod=space&uid=1435413&do=thread&view=me&from=space
 
 * ### [Unrar破解rar压缩密码：通过Unrar库实现rar格式压缩包密码的破解。](https://github.com/cnzbpy/simplepy/blob/master/Unrar%E7%A0%B4%E8%A7%A3rar%E5%8E%8B%E7%BC%A9%E5%AF%86%E7%A0%81.py)
 
